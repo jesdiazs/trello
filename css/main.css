@@ -1,0 +1,34 @@
+.cabecera{
+	background-color: #BA52ED; 
+}
+h1{
+	font-family: 'Handlee', cursive;
+	color: white;
+	text-align: center;
+}
+.inicial{
+	background-color:#FF99FE;
+	opacity: 0.5;
+	margin-top: 20px;	
+}
+i{
+	font-size: 20px;
+	margin-left:5px;
+	color: grey;
+}
+p{
+	font-family: 'BenchNine', sans-serif;
+	display: inline-block;
+	margin-left: 5px;
+}
+
+/*estilos para la nueva Lista*/
+{
+	background-color:#FF99FE;
+}
+
+.lista {
+	background-color: red;
+	border-radius: 5px;
+	padding: 10px;
+}
